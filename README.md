@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning Django Rest Framework
 - 👯 I’m looking to collaborate on Django Projects
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/gustavopirro">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=gustavopirro&?count_private=true&show_icons=true&theme=dracula" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/gustavopirro">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&?count_private=true" />
 </a>
 <div style="display: inline-block"><br>
