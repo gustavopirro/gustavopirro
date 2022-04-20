@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python GIS Plugins
-- 🌱 I’m currently learning Docker
+- 🔭 I’m currently working on Django Web Development
+- 🌱 I’m currently learning TDD
 - 👯 I’m looking to collaborate on Django Projects
 
 <a href="https://github.com/gustavopirro">
