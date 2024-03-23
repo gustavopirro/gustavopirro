@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Django Web Development
-- 🌱 I’m currently learning TDD
-- 👯 I’m looking to collaborate on Django Projects
+- 🔭 I’m currently working on Micro-services
+- 🌱 I’m currently learning Software Architecture
+- 👯 I’m looking to collaborate on Server-side Projects
              
 <a href="https://github.com/gustavopirro">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=gustavopirro&?count_private=true&show_icons=true&theme=dracula" />
