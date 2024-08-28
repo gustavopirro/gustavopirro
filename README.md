@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Micro-services
-- 🌱 I’m currently learning Software Architecture
+- 🔭 I’m currently working on Java Springboot Micro-services
 - 👯 I’m looking to collaborate on Server-side Projects
              
 <a href="https://github.com/gustavopirro">
