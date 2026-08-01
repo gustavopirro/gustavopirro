@@ -1,11 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java Springboot Micro-services
 - 👯 I’m looking to collaborate on Server-side Projects
              
-<a href="https://github.com/gustavopirro">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=gustavopirro&?count_private=true&show_icons=true&theme=dracula" />
-</a>
 <div style="display: inline-block"><br>
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
 <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />     
